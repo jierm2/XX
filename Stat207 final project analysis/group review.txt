@@ -1,0 +1,15 @@
+Name: Jier Miao
+Assigned Group Student Name:Nama, Jathin and Shaheen, Salman
+
+To develop a better understanding of the relationships between different property metrics and ideally leverage those relationships to predict property valuation factors such as price, condition, and features.
+
+
+Yes, they just listed on the introduction ppt.  For the first research set, they used box plot, and calculated  summary statistics and they found  median and IQR. 
+For the second research set, they did sample statistics, 95% confidence interval, hypothesis test. 
+For the third research set, they fitted a linear regression model, checked multiple linear regression conditions, and ran prediction on sample house data.
+For the fourth research set, they splitted the data and did a parsimonious model, and used roc and auc, and found a predictive threshold.
+
+Homes that sold in normal condition and that have central air conditioning typically sold for a greater price than those homes that did not have central air conditioning. Their model does a good job in predicting whether or not a house will have central air conditioning.
+
+I’m wondering how they used median and IQR in their analysis.
+

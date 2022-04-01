@@ -1,0 +1,5 @@
+tiles
+mosaic-*
+!mosaic-web.jpg
+base.jpg
+__pycache__
